@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import React from 'react'
 
 function page() {
@@ -24,7 +25,7 @@ function page() {
 
 </div>
 <div className=' mx-10  animate-bounce  rounded-md   bg-yellow-500  flex justify-center items-center'>
-    <button className='  border-l md:text-[33px] text-blue-500  text-center'>buy now </button>
+<button className='   border-l md:text-[33px] text-blue-500  text-center'><Link href={'https://4ca372q7pllm3oeayhqcd71wf5.hop.clickbank.net'}>Buy now </Link> </button>
 </div>
 </div>
 <div>
@@ -34,7 +35,7 @@ function page() {
 
 </div>
 <div className=' mx-10  animate-bounce  rounded-md   bg-yellow-500  flex justify-center items-center'>
-    <button className='   border-l md:text-[33px] text-blue-500  text-center'>buy now </button>
+    <button className='   border-l md:text-[33px] text-blue-500  text-center'><Link href={'https://4ca372q7pllm3oeayhqcd71wf5.hop.clickbank.net'}>Buy now </Link> </button>
 </div>
 </div>
 
@@ -45,7 +46,7 @@ function page() {
 
 </div>
 <div className=' mx-10  animate-bounce  rounded-md   bg-yellow-500  flex justify-center items-center'>
-    <button className='      border-l md:text-[33px] text-blue-500  text-center'>buy now </button>
+<button className='   border-l md:text-[33px] text-blue-500  text-center'><Link href={'https://4ca372q7pllm3oeayhqcd71wf5.hop.clickbank.net'}>Buy now </Link> </button>
 </div>
 </div>
 </div>
@@ -58,7 +59,7 @@ function page() {
     </h1>
 </div>
 <div className=' mx-2'>
-<p>
+<p className=' text-black'>
 
 What is Metabolic Power? Metabolic Power is likely a dietary supplement designed to help boost the body's metabolic rate, aiding in weight loss, fat burning, and improved energy levels. These types of products often focus on increasing thermogenesis (the process of heat production in the body), which speeds up fat-burning and can help individuals achieve their weight loss goals more efficiently.
 <br/>
@@ -93,7 +94,7 @@ Metabolic Power could contain a combination of natural ingredients known for the
     </li>
 </div>
 <div className="  my-1  m-0  w-[100%]   mx-1   flex  justify-center items-center">
-<img className=" w-[100vw]  md:h-[68vh]   sm:w-[100vw] sm:h-[50vh]    " src="/meta4.PNG" alt="My Image" />
+<img className=" w-[100vw]  md:h-[68vh]   sm:w-[100vw] sm:h-[60vh]    " src="/meta4.PNG" alt="My Image" />
 
 
 </div>
