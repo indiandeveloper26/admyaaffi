@@ -7,7 +7,7 @@ function page() {
     
 
     <div className="  my-1  m-0  w-[100%]   mx-1   flex  justify-center items-center">
-<img className=" w-[90vw]  md:h-[65vh]   sm:w-[100vw] sm:h-[50vh]    " src="/java2.png" alt="My Image" />
+<img className=" w-[90vw]  md:h-[65vh]   sm:w-[100vw] sm:h-[40vh]    " src="/java2.png" alt="My Image" />
 
 
 </div>
@@ -24,14 +24,14 @@ function page() {
 
 
 
-        <div className=' md:space-x-3    grid md:grid-cols-3 sm:grid-cols-1'>
+        <div className='  md:mx-[73px]     grid md:grid-cols-3 sm:grid-cols-1'>
 
-    <div className=' rounded-md shadow-lg  border-2 border-red-400 overflow-hidden'>
-    <h1 className=' text-center  md:text-[44px]'>
+    <div className=' md:mx-4 sm:my-3 sm:mx-8  rounded-md shadow-lg  border-2 border-red-400 overflow-hidden'>
+    <h1 className='  text-black text-center  md:text-[44px]'>
             2 purchase
         </h1>
         <br/>
-        <p className=' text-2xl text-center'>
+        <p className='   text-black text-2xl text-center'>
             60 day supply
         </p>
     <div className="  my-1  m-0  w-[100%]   mx-1   flex  justify-center items-center">
@@ -45,16 +45,16 @@ function page() {
         $79 per pouch
     </h2>
 </div>
-<div className=' mx-10  animate-bounce  rounded-md    bg-blue-500   flex justify-center items-center'>
+<div className=' mx-10  animate-bounce  rounded-md     bg-orange-500   flex justify-center items-center'>
 <button className='   border-l md:text-[33px]  text-white  text-center'><Link href={'https://a61434z8ukmedw94gfb5wb-x91.hop.clickbank.net'}>Add to cart</Link> </button>
 </div>
 </div>
-<div className=' rounded-md shadow-lg  border-2 border-red-400 overflow-hidden'>
-    <h1 className=' text-center  md:text-[44px]'>
+<div className=' sm:my-3 sm:mx-8 rounded-md shadow-lg  border-2 border-red-400 overflow-hidden'>
+    <h1 className='  text-black text-center  md:text-[44px]'>
             6 purchase
         </h1>
         <br/>
-        <p className=' text-2xl text-center'>
+        <p className='  text-black text-2xl text-center'>
             180 day supply
         </p>
     <div className="  my-1  m-0  w-[100%]   mx-1   flex  justify-center items-center">
@@ -72,17 +72,17 @@ function page() {
 <h3 className=' md:text-2xl text-center text-green-600'>
         you save $888 !
     </h3>
-<div className=' mx-10  animate-bounce  rounded-md    bg-blue-500   flex justify-center items-center'>
+    <div className='  mx-10  animate-bounce  rounded-md     bg-orange-500   flex justify-center items-center'>
 <button className='   border-l md:text-[33px]  text-white  text-center'><Link href={'https://a61434z8ukmedw94gfb5wb-x91.hop.clickbank.net'}>Add to cart</Link> </button>
 </div>
 </div>
 
-<div className=' rounded-md shadow-lg  border-2 border-red-400 overflow-hidden'>
-    <h1 className=' text-center  md:text-[44px]'>
+<div className=' md:mx-4 sm:mx-8 sm:my-3 rounded-md shadow-lg  border-2 border-red-400 overflow-hidden'>
+    <h1 className=' text-black text-center  md:text-[44px]'>
             3 purchase
         </h1>
         <br/>
-        <p className=' text-2xl text-center'>
+        <p className=' text-black text-2xl text-center'>
            90  day supply
         </p>
     <div className="  my-1  m-0  w-[100%]   mx-1   flex  justify-center items-center">
@@ -99,7 +99,7 @@ function page() {
 <h3 className=' md:text-2xl text-center text-green-600'>
         you save $384 !
     </h3>
-<div className=' mx-10  animate-bounce  rounded-md    bg-blue-500   flex justify-center items-center'>
+    <div className=' mx-10  animate-bounce  rounded-md     bg-orange-500   flex justify-center items-center'>
 <button className='   border-l md:text-[33px]  text-white  text-center'><Link href={'https://a61434z8ukmedw94gfb5wb-x91.hop.clickbank.net'}>Add to cart</Link> </button>
 </div>
 </div>
@@ -118,8 +118,8 @@ This product is backed by a 100% money back guarantee for 60 full days from your
 </p>
 </div>
 </div>
-<div className=' sm:mx-4'>
-    <p className=' md:text-2xl'>
+<div className=' md:mx-4 sm:mx-4'>
+    <p className=' text-black  md:text-2xl'>
     Are you struggling to lose weight no matter how much you diet or exercise? Turns out, it's not your fault.
 
 In 2023, after studying over 170 years of scientific data, a team of scientific researchers discovered that up to 80% of Americans may have simply inherited a slow and inefficient metabolism to some degree.

@@ -5,7 +5,7 @@ function page() {
   return (
     <div className='  bg-white '>
 <div className="  my-1  m-0  w-[100%]   mx-1   flex  justify-center items-center">
-<img className=" w-[100vw]  md:h-[68vh]   sm:w-[100vw] sm:h-[50vh]    " src="/metabolo.PNG" alt="My Image" />
+<img className=" w-[100vw]  md:h-[68vh]   sm:w-[100vw] sm:h-[40vh]    " src="/metabolo.PNG" alt="My Image" />
 
 
 </div>
@@ -20,7 +20,7 @@ function page() {
 
     <div>
     <div className="  my-1  m-0  w-[100%]   mx-1   flex  justify-center items-center">
-<img className=" w-[100vw]  md:h-[68vh]   sm:w-[100vw] sm:h-[50vh]    " src="/meta1.PNG" alt="My Image" />
+<img className=" w-[100vw]  md:h-[68vh]   sm:w-[66vw] sm:h-[50vh]    " src="/meta1.PNG" alt="My Image" />
 
 
 </div>
@@ -30,7 +30,7 @@ function page() {
 </div>
 <div>
 <div className="  my-1  m-0  w-[100%]   mx-1   flex  justify-center items-center">
-<img className=" w-[100vw]  md:h-[68vh]   sm:w-[100vw] sm:h-[50vh]    " src="/meta3.PNG" alt="My Image" />
+<img className=" w-[100vw]  md:h-[68vh]   sm:w-[66vw] sm:h-[50vh]    " src="/meta3.PNG" alt="My Image" />
 
 
 </div>
@@ -41,7 +41,7 @@ function page() {
 
 <div>
     <div className="  my-1  m-0  w-[100%]   mx-1   flex  justify-center items-center">
-<img className=" w-[100vw]  md:h-[68vh]   sm:w-[100vw] sm:h-[50vh]    " src="/meta2.PNG" alt="My Image" />
+<img className=" w-[100vw]  md:h-[68vh]   sm:w-[66vw] sm:h-[50vh]    " src="/meta2.PNG" alt="My Image" />
 
 
 </div>
@@ -94,7 +94,7 @@ Metabolic Power could contain a combination of natural ingredients known for the
     </li>
 </div>
 <div className="  my-1  m-0  w-[100%]   mx-1   flex  justify-center items-center">
-<img className=" w-[100vw]  md:h-[68vh]   sm:w-[100vw] sm:h-[60vh]    " src="/meta4.PNG" alt="My Image" />
+<img className=" w-[100vw]  md:h-[68vh]   sm:w-[100vw] sm:h-[45vh]    " src="/meta4.PNG" alt="My Image" />
 
 
 </div>
